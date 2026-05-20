@@ -1,0 +1,16 @@
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\bin\Debug\net10.0-windows\EmailTestApplicationGUI.exe
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\bin\Debug\net10.0-windows\EmailTestApplicationGUI.deps.json
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\bin\Debug\net10.0-windows\EmailTestApplicationGUI.runtimeconfig.json
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\bin\Debug\net10.0-windows\EmailTestApplicationGUI.dll
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\bin\Debug\net10.0-windows\EmailTestApplicationGUI.pdb
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.Form1.resources
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.csproj.GenerateResource.cache
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.AssemblyInfoInputs.cache
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.AssemblyInfo.cs
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.csproj.CoreCompileInputs.cache
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.dll
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\refint\EmailTestApplicationGUI.dll
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.pdb
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\EmailTestApplicationGUI.genruntimeconfig.cache
+C:\DEV\Repos\EmailTestApplicationGUI\EmailTestApplicationGUI\obj\Debug\net10.0-windows\ref\EmailTestApplicationGUI.dll
