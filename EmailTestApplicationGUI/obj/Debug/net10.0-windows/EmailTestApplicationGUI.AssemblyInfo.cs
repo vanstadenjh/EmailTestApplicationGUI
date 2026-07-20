@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmailTestApplicationGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e74698f88140a6285c1065c60759c0d2d30b0940")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmailTestApplicationGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmailTestApplicationGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
